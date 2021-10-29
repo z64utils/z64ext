@@ -99,7 +99,7 @@ FORMATTING
          
          dddd
          
-         d = dma entry
+         d = dma index
          
          DMA prefix
          
@@ -124,7 +124,7 @@ FORMATTING
          
          dddd
          
-         d = dma entry
+         d = dma index
          
          No DMA prefix
    
@@ -148,7 +148,7 @@ FORMATTING
          
          dddd aaaa rrrrrrrr
          
-         d = dma entry
+         d = dma index
          a = allocation type
          r = ram address (when loaded, 0 if not loaded)
          
