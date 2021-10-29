@@ -176,7 +176,7 @@ FORMATTING
          
          Entries overlap when doing so saves space.
          
-         ssssssss pppppppp eeeeeeee
+         ssssssss bbbbbbbb eeeeeeee
                            ssssssss pppppppp ...
          
          s = virtual start
